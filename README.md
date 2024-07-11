@@ -1,2 +1,5 @@
-# UTS-dan-UAS-Visual-2
-Muhamad Nur Falah (2210010511)
+# Project Delphi Aplikasi Penjualan
+
+>[!note]
+> Ahmad Syaifuddin - 2210010111 (Tugas UTS dan UAS)
+ 
